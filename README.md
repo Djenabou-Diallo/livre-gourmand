@@ -1,6 +1,6 @@
 # Livre Gourmand 🍽️
 
-Application web e-commerce de vente de livres de recettes en français.
+Application web e-commerce de vente de recettes en français.
 Catalogue, panier, paiement, authentification et tableau de bord administrateur.
 
 ---
